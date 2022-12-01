@@ -73,14 +73,12 @@ h3{
 }
 
 .about{
-    height: 100vh;
     width: 100%;
     background-color: white;
 }
 
 .unggulan{
     text-align: center;
-    margin-top: 40px;
     margin-bottom: 60px;
 }
 
@@ -103,8 +101,9 @@ h3{
 
 .galery{
     text-align: center;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 150px;
+    color: #fff;
 }
 
 .imeg{
@@ -122,4 +121,12 @@ footer {
     float: left;
     margin-right: 50px;
     margin-bottom: 40px;
+}
+.apaan{
+    background-color: #333;
+    height: 100vh;
+}
+
+.wahyu{
+    height: 100vh;
 }
